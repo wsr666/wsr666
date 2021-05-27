@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wsr666
+- 👋 Hi, I’m @OGreal
 - 👀 I’m interested in Hiphop
 - 🌱 I’m currently learning IT
 - 💞️ I’m looking to collaborate on Github
